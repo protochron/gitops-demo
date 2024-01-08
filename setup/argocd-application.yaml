@@ -5,7 +5,7 @@ metadata:
 spec:
   source:
     path: .
-    repoURL: https://github.com/cosmonic/concordance-gitops
+    repoURL: https://github.com/protochron/gitops-demo
     targetRevision: HEAD
     directory:
       recurse: false
